@@ -1,0 +1,2 @@
+admin,admin123,admin
+superadmin,pass123malak_a,pat111,patient
